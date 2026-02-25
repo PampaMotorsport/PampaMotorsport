@@ -104,4 +104,16 @@ footer{
 
 @media(max-width:768px){
   h1{font-size:2rem;}
+.logo{
+  width: 420px;
+  max-width: 90%;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+.subtitle{
+  margin-top: 10px;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  opacity: 0.9;
 }
